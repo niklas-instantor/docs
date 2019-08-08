@@ -16,6 +16,10 @@ Oh, so you're lazy and only want to know the bare minimum of what our system req
 | zebra stripes | are neat | $1 |
 
 ## Logo?
+We can even specify the size!!!
 
-![](.gitbook/assets/logo.png)
+<img src=".gitbook/assets/logo.png" width="48">
 
+<img src=".gitbook/assets/logo.png" width="60">
+
+<img src=".gitbook/assets/logo.png" width="80">
