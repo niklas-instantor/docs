@@ -19,5 +19,8 @@ printMyArgument('This documentation tool is amazeballs! :O')
 > This documentation tool is amazeballs! :O
 ```
 
-This is a paragraph added from the online user interface!
+### Test!
 
+```py
+def testmethod()
+```
