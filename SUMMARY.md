@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
-* [Overview](README.md)
-* [Quick Start](QUICK.md)
+* [Initial page](README.md)
+

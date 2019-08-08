@@ -1,9 +1,6 @@
-# Overview
-Welcome to Instantor AB API documentation
+---
+description: ööö
+---
 
-This document outlines bla
-
-```javascript
-const message = 'This is JavaScript code formatted nicely in the browser'
-```
+# Initial page
 
